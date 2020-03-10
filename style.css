@@ -1,0 +1,165 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body{
+   height: ;
+   width: 800px;
+}
+
+.post-details{
+   height: 75px;
+   width: 100%;
+
+   display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: start;
+	align-items: center;
+   align-content: center;
+   
+}
+
+.profile-thumbnail{
+   height: 50px;
+   width: 50px;
+   border-radius: 50%;
+   background-image: cover;
+}
+
+.post-image-details{
+   height: 50px;
+   width: 100%;
+   border-left: gray;
+
+   display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: start;
+	align-items: center;
+	align-content: center;
+
+}
+
+.action-bar{
+   height: 50px;
+   width: 100%;
+   border-top: grey;
+
+   display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: start;
+	align-items: center;
+   align-content: center;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* *{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body{
+   height: 300vh;
+   padding-top: 15 vh;
+
+}
+
+header {
+   height: 15vh; 
+   width: 100vw;
+   background-color: blanchedalmond;
+   padding: 10px;
+   position: fixed;
+   top: 0;
+   z-index: 1;
+}
+
+.relative-div {
+   height: 150px;
+   width: 150px;
+   background-color: plum;
+   position: relative;
+   top: 100px;
+   left: 25px;
+
+
+}
+
+.absolute-parent{
+   height: 300px;
+   width: 300px;
+   border: dashed black 2px;
+   position: relative;
+}
+
+.absolute-child{
+   background-color: salmon;
+   height: 100px;
+   width: 100px;
+
+   position: absolute;
+   top: 50px;
+   left: 50px;
+}
+
+.sticky{
+   height: 200px;
+   position: sticky;
+   top: 15vh;
+
+
+} */
